@@ -1,12 +1,11 @@
 
 - 👀 Meu objetivo é ter uma base sólida de conhecimento que me permita me adaptar a diferentes situações e projetos que eu possa me envolver.
-- 🌱 Atualmente me aprofundando em JavaScript.
-- 💞️ Estou estudando atualmente para dar começo a minha carreira como programador, procuro um estágio que vá ajudar no meu desenvolvimento como um profissional.
+- 🌱 Atualmente me aprofundando em NodeJS e manipulação de banco de dados com rotas de APIs.
+- 💞️ Estou estudando atualmente para dar começo a minha carreira como programador, procuro uma vaga júnior como desenvolvedor backend.
 
 - 📫 Entre em contato comigo em:
 
   • LinkedIn: https://www.linkedin.com/in/thiago-cupertino-a65316271/
-  
   • E-mail: rcupertino77@gmail.com 
 
 
